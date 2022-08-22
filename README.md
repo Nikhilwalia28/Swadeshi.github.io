@@ -1,2 +1,0 @@
-# blogstorm.me
-index.html
